@@ -1,0 +1,8 @@
+# Exclude system directories
+System Volume Information
+$RECYCLE.BIN
+
+# Exclude other unnecessary directories
+node_modules/
+.git/
+.expo/
